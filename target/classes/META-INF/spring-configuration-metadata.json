@@ -1,0 +1,32 @@
+{
+  "groups": [
+    {
+      "name": "globalpayments",
+      "type": "com.strathlucan.b2bPaymentBackendpring.config.MyServiceConfig",
+      "sourceType": "com.strathlucan.b2bPaymentBackendpring.config.MyServiceConfig"
+    }
+  ],
+  "properties": [
+    {
+      "name": "globalpayments.account-id",
+      "type": "java.lang.String",
+      "sourceType": "com.strathlucan.b2bPaymentBackendpring.config.MyServiceConfig"
+    },
+    {
+      "name": "globalpayments.merchant-id",
+      "type": "java.lang.String",
+      "sourceType": "com.strathlucan.b2bPaymentBackendpring.config.MyServiceConfig"
+    },
+    {
+      "name": "globalpayments.service-url",
+      "type": "java.lang.String",
+      "sourceType": "com.strathlucan.b2bPaymentBackendpring.config.MyServiceConfig"
+    },
+    {
+      "name": "globalpayments.shared-secret",
+      "type": "java.lang.String",
+      "sourceType": "com.strathlucan.b2bPaymentBackendpring.config.MyServiceConfig"
+    }
+  ],
+  "hints": []
+}
